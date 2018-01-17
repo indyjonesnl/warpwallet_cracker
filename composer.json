@@ -1,0 +1,15 @@
+{
+    "name": "mrfu2/warpwallet_cracker",
+    "description": "PHP version of Warpwallet_cracker",
+    "type": "project",
+    "license": "The Unlicense",
+    "authors": [
+        {
+            "name": "Indy Jones",
+            "email": "indyjonesnl@gmail.com"
+        }
+    ],
+    "require": {
+        "bitwasp/bitcoin": "v0.0.34.2"
+    }
+}
